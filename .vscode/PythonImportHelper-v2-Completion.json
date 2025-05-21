@@ -1,0 +1,690 @@
+[
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "resize_frame",
+        "importPath": "libs.core.video_utils",
+        "description": "libs.core.video_utils",
+        "isExtraImport": true,
+        "detail": "libs.core.video_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_video_orientation",
+        "importPath": "libs.core.video_utils",
+        "description": "libs.core.video_utils",
+        "isExtraImport": true,
+        "detail": "libs.core.video_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_frame_dims",
+        "importPath": "libs.core.video_utils",
+        "description": "libs.core.video_utils",
+        "isExtraImport": true,
+        "detail": "libs.core.video_utils",
+        "documentation": {}
+    },
+    {
+        "label": "YOLO",
+        "importPath": "ultralytics",
+        "description": "ultralytics",
+        "isExtraImport": true,
+        "detail": "ultralytics",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_info",
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "isExtraImport": true,
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_yolo_model",
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "isExtraImport": true,
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_info",
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "isExtraImport": true,
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_yolo_model",
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "isExtraImport": true,
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_info",
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "isExtraImport": true,
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_yolo_model",
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "isExtraImport": true,
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "process_frame_object",
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "isExtraImport": true,
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CLASS_MAPPING",
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "isExtraImport": true,
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "process_frame_object",
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "isExtraImport": true,
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CLASS_MAPPING",
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "isExtraImport": true,
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "process_frame_object",
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "isExtraImport": true,
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CLASS_MAPPING",
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "isExtraImport": true,
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_performance_metrics",
+        "importPath": "libs.core.metrics",
+        "description": "libs.core.metrics",
+        "isExtraImport": true,
+        "detail": "libs.core.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_performance_metrics",
+        "importPath": "libs.core.metrics",
+        "description": "libs.core.metrics",
+        "isExtraImport": true,
+        "detail": "libs.core.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_performance_metrics",
+        "importPath": "libs.core.metrics",
+        "description": "libs.core.metrics",
+        "isExtraImport": true,
+        "detail": "libs.core.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "BlipProcessor",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BlipForConditionalGeneration",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "draw_boxes",
+        "kind": 2,
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "peekOfCode": "def draw_boxes(\n    frame,\n    boxes,\n    classes_detected,\n    confidences,\n    orig_w,\n    orig_h,\n    res_w,\n    res_h,\n    classes_to_count,",
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "process_frame_object",
+        "kind": 2,
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "peekOfCode": "def process_frame_object(\n    frame, model, conf_threshold, classes_to_count, class_mapping=None\n):\n    \"\"\"\n    Enhanced process_frame_object with better error handling and scaling\n    Args:\n        frame: Input frame\n        model: YOLO model\n        conf_threshold: Confidence threshold\n        classes_to_count: List of class IDs to count",
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CLASS_MAPPING",
+        "kind": 5,
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "peekOfCode": "DEFAULT_CLASS_MAPPING = {\n    0: \"human\",  # person\n    2: \"car\",  # car\n    5: \"bus\",  # bus\n    7: \"truck\",  # truck\n    1: \"bicycle\",  # bicycle\n    3: \"motorcycle\",  # motorcycle\n}\n# Default colors for different classes\nDEFAULT_COLORS = {",
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_COLORS",
+        "kind": 5,
+        "importPath": "libs.core.frame_processor",
+        "description": "libs.core.frame_processor",
+        "peekOfCode": "DEFAULT_COLORS = {\n    0: (255, 0, 0),  # Blue for person\n    2: (0, 0, 255),  # Red for car\n    5: (0, 255, 0),  # Green for bus\n    7: (255, 255, 0),  # Cyan for truck\n    1: (255, 0, 255),  # Magenta for bicycle\n    3: (0, 255, 255),  # Yellow for motorcycle\n    \"default\": (255, 255, 255),  # White for others\n}\ndef draw_boxes(",
+        "detail": "libs.core.frame_processor",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_performance_metrics",
+        "kind": 2,
+        "importPath": "libs.core.metrics",
+        "description": "libs.core.metrics",
+        "peekOfCode": "def calculate_performance_metrics(\n    video_length,\n    frame_size,\n    model_name,\n    num_params,\n    avg_fps,\n    avg_inference_time,\n    total_inference_time,\n    total_objects_detected,\n    video_name,",
+        "detail": "libs.core.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "load_yolo_model",
+        "kind": 2,
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "peekOfCode": "def load_yolo_model(model_path: str):\n    \"\"\"Load a YOLO model from models directory\"\"\"\n    # Simply join with models directory\n    full_path = os.path.join(MODELS_DIR, model_path)\n    # Check if model exists\n    if not os.path.exists(full_path):\n        raise FileNotFoundError(f\"Model not found: {full_path}\")\n    return YOLO(full_path)\ndef get_model_info(model_path: str):\n    \"\"\"Get model size in MB and number of parameters\"\"\"",
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_info",
+        "kind": 2,
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "peekOfCode": "def get_model_info(model_path: str):\n    \"\"\"Get model size in MB and number of parameters\"\"\"\n    full_path = os.path.join(MODELS_DIR, model_path)\n    try:\n        size_mb = os.path.getsize(full_path) / (1024 * 1024)\n        model = YOLO(full_path)\n        params = sum(p.numel() for p in model.parameters())\n        return size_mb, params\n    except Exception:\n        return 0, 0",
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "MODELS_DIR",
+        "kind": 5,
+        "importPath": "libs.core.model_loader",
+        "description": "libs.core.model_loader",
+        "peekOfCode": "MODELS_DIR = \"models\"\ndef load_yolo_model(model_path: str):\n    \"\"\"Load a YOLO model from models directory\"\"\"\n    # Simply join with models directory\n    full_path = os.path.join(MODELS_DIR, model_path)\n    # Check if model exists\n    if not os.path.exists(full_path):\n        raise FileNotFoundError(f\"Model not found: {full_path}\")\n    return YOLO(full_path)\ndef get_model_info(model_path: str):",
+        "detail": "libs.core.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "get_video_orientation",
+        "kind": 2,
+        "importPath": "libs.core.video_utils",
+        "description": "libs.core.video_utils",
+        "peekOfCode": "def get_video_orientation(frame):\n    \"\"\"Detect video orientation based on frame dimensions\"\"\"\n    if frame is None:\n        return \"landscape\"\n    h, w = frame.shape[:2]\n    return \"portrait\" if h > w else \"landscape\"\ndef ensure_frame_dims(frame):\n    \"\"\"Ensure frame dimensions are valid\"\"\"\n    try:\n        if frame is None:",
+        "detail": "libs.core.video_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_frame_dims",
+        "kind": 2,
+        "importPath": "libs.core.video_utils",
+        "description": "libs.core.video_utils",
+        "peekOfCode": "def ensure_frame_dims(frame):\n    \"\"\"Ensure frame dimensions are valid\"\"\"\n    try:\n        if frame is None:\n            return None\n        h, w = frame.shape[:2]\n        return frame if h > 0 and w > 0 else None\n    except:\n        return None\ndef resize_frame(frame, target_size=(640, 640)):",
+        "detail": "libs.core.video_utils",
+        "documentation": {}
+    },
+    {
+        "label": "resize_frame",
+        "kind": 2,
+        "importPath": "libs.core.video_utils",
+        "description": "libs.core.video_utils",
+        "peekOfCode": "def resize_frame(frame, target_size=(640, 640)):\n    \"\"\"Resize frame while maintaining aspect ratio\"\"\"\n    frame = ensure_frame_dims(frame)\n    if frame is None:\n        return np.zeros((*target_size, 3), dtype=np.uint8)\n    height, width = frame.shape[:2]\n    scale = min(target_size[0] / width, target_size[1] / height)\n    new_width = int(width * scale)\n    new_height = int(height * scale)\n    # Ensure minimum dimensions",
+        "detail": "libs.core.video_utils",
+        "documentation": {}
+    },
+    {
+        "label": "stream_url",
+        "kind": 5,
+        "importPath": "libs.streaming_videos",
+        "description": "libs.streaming_videos",
+        "peekOfCode": "stream_url = \"rtmp://localhost:1935/live/stream\"\ncap = cv2.VideoCapture(stream_url)\nwhile cap.isOpened():\n    ret, frame = cap.read()\n    if not ret:\n        break\n    # Process the frame here\n    cv2.imshow(\"Live Stream\", frame)\n    if cv2.waitKey(1) & 0xFF == ord('q'):\n        break",
+        "detail": "libs.streaming_videos",
+        "documentation": {}
+    },
+    {
+        "label": "cap",
+        "kind": 5,
+        "importPath": "libs.streaming_videos",
+        "description": "libs.streaming_videos",
+        "peekOfCode": "cap = cv2.VideoCapture(stream_url)\nwhile cap.isOpened():\n    ret, frame = cap.read()\n    if not ret:\n        break\n    # Process the frame here\n    cv2.imshow(\"Live Stream\", frame)\n    if cv2.waitKey(1) & 0xFF == ord('q'):\n        break\ncap.release()",
+        "detail": "libs.streaming_videos",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "def load_model(path):\n    return load_yolo_model(path)\n# Upload Mode\nif video_input_mode == \"Upload\" and uploaded_file is not None:\n    input_video_path = \"temp_video.mp4\"\n    with open(input_video_path, \"wb\") as f:\n        f.write(uploaded_file.getbuffer())\n    col1, col2 = st.columns(2)\n    with col1:",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "video_input_mode",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "video_input_mode = st.sidebar.radio(\"Choose Input Source\", options=[\"Upload\", \"Stream\"], index=0, horizontal=True)\nuploaded_file = None\nstream_url = \"\"\nif video_input_mode == \"Upload\":\n    uploaded_file = st.sidebar.file_uploader(\"📁 Browse a video file\", type=[\"mp4\", \"avi\", \"mov\"])\nif video_input_mode == \"Stream\":\n    stream_url = st.sidebar.text_input(\"🔗 Stream URL\", value=\"rtmp://localhost:1935/live/stream\", help=\"Enter your stream address.\")",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "uploaded_file",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "uploaded_file = None\nstream_url = \"\"\nif video_input_mode == \"Upload\":\n    uploaded_file = st.sidebar.file_uploader(\"📁 Browse a video file\", type=[\"mp4\", \"avi\", \"mov\"])\nif video_input_mode == \"Stream\":\n    stream_url = st.sidebar.text_input(\"🔗 Stream URL\", value=\"rtmp://localhost:1935/live/stream\", help=\"Enter your stream address.\")\n# Model settings",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "stream_url",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "stream_url = \"\"\nif video_input_mode == \"Upload\":\n    uploaded_file = st.sidebar.file_uploader(\"📁 Browse a video file\", type=[\"mp4\", \"avi\", \"mov\"])\nif video_input_mode == \"Stream\":\n    stream_url = st.sidebar.text_input(\"🔗 Stream URL\", value=\"rtmp://localhost:1935/live/stream\", help=\"Enter your stream address.\")\n# Model settings\nst.sidebar.title(\"🔧 Model Settings\")",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "available_models",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "available_models = [\"yolo11n.pt\", \"yolo11s.pt\", \"yolo11m.pt\", \"yolo11l.pt\", \"yolo11x.pt\"]\nselected_model = st.sidebar.selectbox(\"Select Model\", available_models)\nconf_threshold = st.sidebar.slider(\"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05)\nskip_factor = st.sidebar.slider(\"Frame Skip Factor\", 1, 10, 5, 1, help=\"Process 1 frame for every N frames\")\nclasses_to_count = [0]  # 0=person\ntarget_class_mapping = {0: \"person\"}\n@st.cache_resource\ndef load_model(path):",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "selected_model",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "selected_model = st.sidebar.selectbox(\"Select Model\", available_models)\nconf_threshold = st.sidebar.slider(\"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05)\nskip_factor = st.sidebar.slider(\"Frame Skip Factor\", 1, 10, 5, 1, help=\"Process 1 frame for every N frames\")\nclasses_to_count = [0]  # 0=person\ntarget_class_mapping = {0: \"person\"}\n@st.cache_resource\ndef load_model(path):\n    return load_yolo_model(path)",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "conf_threshold",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "conf_threshold = st.sidebar.slider(\"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05)\nskip_factor = st.sidebar.slider(\"Frame Skip Factor\", 1, 10, 5, 1, help=\"Process 1 frame for every N frames\")\nclasses_to_count = [0]  # 0=person\ntarget_class_mapping = {0: \"person\"}\n@st.cache_resource\ndef load_model(path):\n    return load_yolo_model(path)",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "skip_factor",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "skip_factor = st.sidebar.slider(\"Frame Skip Factor\", 1, 10, 5, 1, help=\"Process 1 frame for every N frames\")\nclasses_to_count = [0]  # 0=person\ntarget_class_mapping = {0: \"person\"}\n@st.cache_resource\ndef load_model(path):\n    return load_yolo_model(path)\n# Upload Mode",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "classes_to_count",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "classes_to_count = [0]  # 0=person\ntarget_class_mapping = {0: \"person\"}\n@st.cache_resource\ndef load_model(path):\n    return load_yolo_model(path)\n# Upload Mode\nif video_input_mode == \"Upload\" and uploaded_file is not None:\n    input_video_path = \"temp_video.mp4\"",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "target_class_mapping",
+        "kind": 5,
+        "importPath": "pages.1_crowd_in_mecca",
+        "description": "pages.1_crowd_in_mecca",
+        "peekOfCode": "target_class_mapping = {0: \"person\"}\n@st.cache_resource\ndef load_model(path):\n    return load_yolo_model(path)\n# Upload Mode\nif video_input_mode == \"Upload\" and uploaded_file is not None:\n    input_video_path = \"temp_video.mp4\"\n    with open(input_video_path, \"wb\") as f:",
+        "detail": "pages.1_crowd_in_mecca",
+        "documentation": {}
+    },
+    {
+        "label": "uploaded_file",
+        "kind": 5,
+        "importPath": "pages.2_bus_detection",
+        "description": "pages.2_bus_detection",
+        "peekOfCode": "uploaded_file = st.sidebar.file_uploader(\n    \"Upload a video file\", type=[\"mp4\", \"avi\", \"mov\"], key=\"sidebar\"\n)\n# Sidebar: Model selection\nst.sidebar.title(\"🔧 Settings\")\n# Only YOLOv11 models as specified\navailable_models = [\n    \"yolo11n.pt\",\n    \"yolo11s.pt\",\n    \"yolo11m.pt\",",
+        "detail": "pages.2_bus_detection",
+        "documentation": {}
+    },
+    {
+        "label": "available_models",
+        "kind": 5,
+        "importPath": "pages.2_bus_detection",
+        "description": "pages.2_bus_detection",
+        "peekOfCode": "available_models = [\n    \"yolo11n.pt\",\n    \"yolo11s.pt\",\n    \"yolo11m.pt\",\n    \"yolo11l.pt\",\n    \"yolo11x.pt\",\n]\nselected_model = st.sidebar.selectbox(\"Select Model\", available_models)\n# Classes to count (5=bus, 2=car by default in COCO dataset)\nclasses_to_count = [2, 5]  # Bus and car classes in COCO dataset",
+        "detail": "pages.2_bus_detection",
+        "documentation": {}
+    },
+    {
+        "label": "selected_model",
+        "kind": 5,
+        "importPath": "pages.2_bus_detection",
+        "description": "pages.2_bus_detection",
+        "peekOfCode": "selected_model = st.sidebar.selectbox(\"Select Model\", available_models)\n# Classes to count (5=bus, 2=car by default in COCO dataset)\nclasses_to_count = [2, 5]  # Bus and car classes in COCO dataset\n# Custom class mapping for this page\nclass_mapping = {2: \"car\", 5: \"bus\"}\n# Confidence threshold slider\nconf_threshold = st.sidebar.slider(\n    \"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05\n)  # Default changed to 0.3 for better detection\n# Frame skipping factor selection",
+        "detail": "pages.2_bus_detection",
+        "documentation": {}
+    },
+    {
+        "label": "classes_to_count",
+        "kind": 5,
+        "importPath": "pages.2_bus_detection",
+        "description": "pages.2_bus_detection",
+        "peekOfCode": "classes_to_count = [2, 5]  # Bus and car classes in COCO dataset\n# Custom class mapping for this page\nclass_mapping = {2: \"car\", 5: \"bus\"}\n# Confidence threshold slider\nconf_threshold = st.sidebar.slider(\n    \"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05\n)  # Default changed to 0.3 for better detection\n# Frame skipping factor selection\nskip_factor = st.sidebar.slider(\n    \"Frame Skip Factor\",",
+        "detail": "pages.2_bus_detection",
+        "documentation": {}
+    },
+    {
+        "label": "class_mapping",
+        "kind": 5,
+        "importPath": "pages.2_bus_detection",
+        "description": "pages.2_bus_detection",
+        "peekOfCode": "class_mapping = {2: \"car\", 5: \"bus\"}\n# Confidence threshold slider\nconf_threshold = st.sidebar.slider(\n    \"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05\n)  # Default changed to 0.3 for better detection\n# Frame skipping factor selection\nskip_factor = st.sidebar.slider(\n    \"Frame Skip Factor\",\n    1,\n    10,",
+        "detail": "pages.2_bus_detection",
+        "documentation": {}
+    },
+    {
+        "label": "conf_threshold",
+        "kind": 5,
+        "importPath": "pages.2_bus_detection",
+        "description": "pages.2_bus_detection",
+        "peekOfCode": "conf_threshold = st.sidebar.slider(\n    \"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05\n)  # Default changed to 0.3 for better detection\n# Frame skipping factor selection\nskip_factor = st.sidebar.slider(\n    \"Frame Skip Factor\",\n    1,\n    10,\n    5,\n    1,",
+        "detail": "pages.2_bus_detection",
+        "documentation": {}
+    },
+    {
+        "label": "skip_factor",
+        "kind": 5,
+        "importPath": "pages.2_bus_detection",
+        "description": "pages.2_bus_detection",
+        "peekOfCode": "skip_factor = st.sidebar.slider(\n    \"Frame Skip Factor\",\n    1,\n    10,\n    5,\n    1,\n    help=\"Process 1 frame for every N frames (higher = faster, lower = more accurate)\",\n)\n# Main app behavior\nif uploaded_file is not None:",
+        "detail": "pages.2_bus_detection",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "def load_model(path):\n    return YOLO(path)\n# --- Upload Mode ---\nif video_input_mode == \"Upload\":\n    if uploaded_file is not None:\n        col1, col2 = st.columns(2)\n        input_video_path = \"temp_video.mp4\"\n        with open(input_video_path, \"wb\") as f:\n            f.write(uploaded_file.getbuffer())\n        with col1:",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "video_input_mode",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "video_input_mode = st.sidebar.radio(\n    \"Choose Input Source\",\n    options=[\"Upload\", \"Stream\"],\n    index=0,\n    horizontal=True\n)\nuploaded_file = None\nstream_url = \"\"\n# Show file uploader only in Upload mode\nif video_input_mode == \"Upload\":",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "uploaded_file",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "uploaded_file = None\nstream_url = \"\"\n# Show file uploader only in Upload mode\nif video_input_mode == \"Upload\":\n    uploaded_file = st.sidebar.file_uploader(\n        \"📁 Browse a video file\", type=[\"mp4\", \"avi\", \"mov\"]\n    )\n# Show RTMP input only in Stream mode\nif video_input_mode == \"Stream\":\n    stream_url = st.sidebar.text_input(",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "stream_url",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "stream_url = \"\"\n# Show file uploader only in Upload mode\nif video_input_mode == \"Upload\":\n    uploaded_file = st.sidebar.file_uploader(\n        \"📁 Browse a video file\", type=[\"mp4\", \"avi\", \"mov\"]\n    )\n# Show RTMP input only in Stream mode\nif video_input_mode == \"Stream\":\n    stream_url = st.sidebar.text_input(\n        \"🔗 Stream URL\", ",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "available_models",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "available_models = [\n    \"yolo11n.pt\", \"yolo11s.pt\", \"yolo11m.pt\", \"yolo11l.pt\", \"yolo11x.pt\"\n]\nselected_model = st.sidebar.selectbox(\"Select Model\", available_models)\nconf_threshold = st.sidebar.slider(\"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05)\nskip_factor = st.sidebar.slider(\n    \"Frame Skip Factor\",\n    1,\n    10,\n    5,",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "selected_model",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "selected_model = st.sidebar.selectbox(\"Select Model\", available_models)\nconf_threshold = st.sidebar.slider(\"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05)\nskip_factor = st.sidebar.slider(\n    \"Frame Skip Factor\",\n    1,\n    10,\n    5,\n    1,\n    help=\"Process 1 frame for every N frames (higher = faster, lower = more accurate)\",\n)",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "conf_threshold",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "conf_threshold = st.sidebar.slider(\"Confidence Threshold\", 0.1, 0.9, 0.3, 0.05)\nskip_factor = st.sidebar.slider(\n    \"Frame Skip Factor\",\n    1,\n    10,\n    5,\n    1,\n    help=\"Process 1 frame for every N frames (higher = faster, lower = more accurate)\",\n)\n# Portrait options only for upload",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "skip_factor",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "skip_factor = st.sidebar.slider(\n    \"Frame Skip Factor\",\n    1,\n    10,\n    5,\n    1,\n    help=\"Process 1 frame for every N frames (higher = faster, lower = more accurate)\",\n)\n# Portrait options only for upload\nis_portrait = False",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "is_portrait",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "is_portrait = False\nforce_rotate = False\nif video_input_mode == \"Upload\":\n    st.sidebar.subheader(\"📱 Mobile Video Options\")\n    is_portrait = st.sidebar.checkbox(\"Portrait Video\", value=False)\n    force_rotate = st.sidebar.checkbox(\"Auto-rotate to Landscape\", value=False)\n# Load model with caching\n@st.cache_resource\ndef load_model(path):\n    return YOLO(path)",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "force_rotate",
+        "kind": 5,
+        "importPath": "pages.people_in_bus",
+        "description": "pages.people_in_bus",
+        "peekOfCode": "force_rotate = False\nif video_input_mode == \"Upload\":\n    st.sidebar.subheader(\"📱 Mobile Video Options\")\n    is_portrait = st.sidebar.checkbox(\"Portrait Video\", value=False)\n    force_rotate = st.sidebar.checkbox(\"Auto-rotate to Landscape\", value=False)\n# Load model with caching\n@st.cache_resource\ndef load_model(path):\n    return YOLO(path)\n# --- Upload Mode ---",
+        "detail": "pages.people_in_bus",
+        "documentation": {}
+    },
+    {
+        "label": "cap",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "cap = cv2.VideoCapture(\"bus1.mp4\")\nsuccess, frame = cap.read()\ncount = 0\nwhile success:\n    cv2.imwrite(f\"frame_{count}.jpg\", frame)\n    success, frame = cap.read()\n    count += 1\nprocessor = BlipProcessor.from_pretrained(\"Salesforce/blip2-opt-2.7b\")\nmodel = BlipForConditionalGeneration.from_pretrained(\"Salesforce/blip2-opt-2.7b\").to(\"cuda\")\nimage = Image.open(\"frame_0.jpg\").convert(\"RGB\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "count = 0\nwhile success:\n    cv2.imwrite(f\"frame_{count}.jpg\", frame)\n    success, frame = cap.read()\n    count += 1\nprocessor = BlipProcessor.from_pretrained(\"Salesforce/blip2-opt-2.7b\")\nmodel = BlipForConditionalGeneration.from_pretrained(\"Salesforce/blip2-opt-2.7b\").to(\"cuda\")\nimage = Image.open(\"frame_0.jpg\").convert(\"RGB\")\nprompt = \"Describe the objects in this image and identify any buses and their license plate numbers.\"\ninputs = processor(image, text=prompt, return_tensors=\"pt\").to(\"cuda\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "processor",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "processor = BlipProcessor.from_pretrained(\"Salesforce/blip2-opt-2.7b\")\nmodel = BlipForConditionalGeneration.from_pretrained(\"Salesforce/blip2-opt-2.7b\").to(\"cuda\")\nimage = Image.open(\"frame_0.jpg\").convert(\"RGB\")\nprompt = \"Describe the objects in this image and identify any buses and their license plate numbers.\"\ninputs = processor(image, text=prompt, return_tensors=\"pt\").to(\"cuda\")\nout = model.generate(**inputs, max_new_tokens=100)\nprint(processor.decode(out[0], skip_special_tokens=True))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "model = BlipForConditionalGeneration.from_pretrained(\"Salesforce/blip2-opt-2.7b\").to(\"cuda\")\nimage = Image.open(\"frame_0.jpg\").convert(\"RGB\")\nprompt = \"Describe the objects in this image and identify any buses and their license plate numbers.\"\ninputs = processor(image, text=prompt, return_tensors=\"pt\").to(\"cuda\")\nout = model.generate(**inputs, max_new_tokens=100)\nprint(processor.decode(out[0], skip_special_tokens=True))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "image = Image.open(\"frame_0.jpg\").convert(\"RGB\")\nprompt = \"Describe the objects in this image and identify any buses and their license plate numbers.\"\ninputs = processor(image, text=prompt, return_tensors=\"pt\").to(\"cuda\")\nout = model.generate(**inputs, max_new_tokens=100)\nprint(processor.decode(out[0], skip_special_tokens=True))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "prompt = \"Describe the objects in this image and identify any buses and their license plate numbers.\"\ninputs = processor(image, text=prompt, return_tensors=\"pt\").to(\"cuda\")\nout = model.generate(**inputs, max_new_tokens=100)\nprint(processor.decode(out[0], skip_special_tokens=True))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "inputs = processor(image, text=prompt, return_tensors=\"pt\").to(\"cuda\")\nout = model.generate(**inputs, max_new_tokens=100)\nprint(processor.decode(out[0], skip_special_tokens=True))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "out",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "out = model.generate(**inputs, max_new_tokens=100)\nprint(processor.decode(out[0], skip_special_tokens=True))",
+        "detail": "test",
+        "documentation": {}
+    }
+]
