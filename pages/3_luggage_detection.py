@@ -25,7 +25,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 # Set up the main title and sidebar
-st.title("🧳 Luggage Detection")
+st.title("🧳 Abandoned Luggage Detection")
 # Sidebar layout
 st.sidebar.title("🎥 Video Input Mode")
 video_input_mode = st.sidebar.radio(
