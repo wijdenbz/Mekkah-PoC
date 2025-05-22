@@ -45,8 +45,8 @@ def process_frame_abandoned_detection(
     classes_to_count,
     luggage_classes,
     person_class=0,
-    abandoned_threshold=20,  # Number of frames luggage must be alone to be considered abandoned
-    iou_threshold=0.02,  # IoU threshold to determine if luggage is near a person
+    abandoned_threshold=15,  # Number of frames luggage must be alone to be considered abandoned
+    iou_threshold=0.5,  # IoU threshold to determine if luggage is near a person
     class_mapping=None,
 ):
     """

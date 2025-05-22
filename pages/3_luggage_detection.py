@@ -62,8 +62,7 @@ classes_to_count = [24, 26, 28]  # Backpack, Handbag, Suitcase
 luggage_classes = [24, 26, 28]
 person_class = 0
 abandoned_threshold = 15  # Reduced from 30 to make detection faster
-proximity_threshold = 100
-iou_threshold = 0.05  # Reduced from 0.1 to make overlap detection more sensitive
+iou_threshold = 0.5  # Reduced from 0.1 to make overlap detection more sensitive
 
 target_class_mapping = {24: "Backpack", 26: "Handbag", 28: "Suitcase"}
 
@@ -201,7 +200,7 @@ if video_input_mode == "Upload" and uploaded_file is not None:
                         count_current_iter = 0
 
                 if (
-                    display_frame_count % 3 == 0
+                    display_frame_count % 10 == 0
                     or display_frame_count == 1
                     or frames_read >= total_frames
                 ):

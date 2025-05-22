@@ -91,13 +91,9 @@ def load_model(path):
 
 
 # Upload Mode
-
 if video_input_mode == "Upload" and uploaded_file is not None:
-
     input_video_path = "temp_video.mp4"
-
     with open(input_video_path, "wb") as f:
-
         f.write(uploaded_file.getbuffer())
 
     col1, col2 = st.columns(2)
@@ -190,27 +186,16 @@ if video_input_mode == "Upload" and uploaded_file is not None:
         try:
 
             while cap.isOpened():
-
                 success, frame = cap.read()
-
                 frames_read += 1
-
                 if not success:
-
                     break
-
                 if skip_factor > 1 and (frames_read - 1) % skip_factor != 0:
-
                     if frames_read != total_frames:
-
                         continue
-
                 if frame is None or frame.size == 0:
-
                     continue
-
                 start_time = time.time()
-
                 try:
 
                     processed_frame, counts, _ = process_frame_object(
